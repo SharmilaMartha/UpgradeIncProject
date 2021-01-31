@@ -1,6 +1,13 @@
-/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/utils/APICommonUtils.java
-/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/utils/Configuration.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/pages/ui/OffersPage.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/pages/ui/UpgradePortalLoginPage.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/pages/ui/BasicInformationPage.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/pages/ui/BasePage.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/pages/ui/CreateAccountPage.java
 /Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/ui/CredifyAccountCreationTest.java
-/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/utils/UICommonUtils.java
-/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/restapi/CredApiTest.java
 /Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/utils/Constants.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/utils/APICommonUtils.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/pages/ui/AnnualIncomeInformationPage.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/utils/Configuration.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/utils/UiTestCommonUtils.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/restapi/CredApiTest.java
+/Users/sharmilamartha/Desktop/Sharmila/sm_EclipseWorkSpace/UpgradeIncProject/src/test/java/com/upgradeinc/pages/ui/CheckYourRatePage.java

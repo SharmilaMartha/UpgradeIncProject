@@ -30,38 +30,4 @@ public class Constants {
 	public static final String PASSWORD = "password";
 	public static final String CAPTCHA = "recaptchaToken";
 	
-	
-	/////////////////////////////////ELEMENT_PROPERTIES/////////////////////////////////
-	
-	public static final String DESIRED_AMOUNT = "desiredAmount";
-	public static final String LOAN_PURPOSE = "loanPurpose";
-	public static final String CHECK_YOUR_RATE = "checkYourRate";
-	public static final String INDIVIDUAL = "individual";
-	public static final String FIRST_NAME = "firstName";
-	public static final String LAST_NAME = "lastName";
-	public static final String STREET = "street";
-	public static final String CITY = "city";
-	public static final String STATE = "state";
-	public static final String ZIPCODE = "zipCode";
-	public static final String DATE_OF_BIRTH = "dateOfBirth";
-	public static final String CONTINUE_PERSONAL_INFO = "continuePersonalInfo";
-	public static final String ANNUAL_INCOME = "annualIncome";
-	public static final String ADDITIONAL_ANNUAL_INCOME = "additionalAnnualIncome";
-	public static final String CONTINUE_INCOME_INFO = "continueIncomeInfo";
-	public static final String NEW_USER_NAME_EMAIL_ID = "newUserNameEmailId";
-	public static final String NEW_PASSWORD = "newPassword";
-	public static final String TERMS_AGREEMENTS = "termsAgreements";
-	public static final String SUBMIT_PERSONAL_INFO = "submitPersonalInfo";
-	public static final String USER_LOAN_AMOUNT = "userLoanAmount";
-	public static final String MONTHLY_PAYMENT = "monthlyPayment";
-	public static final String LOAN_TERM = "loanTerm";
-	public static final String LOAN_INTEREST_RATE = "loanInterestRate";
-	public static final String APR = "apr";
-	public static final String MENU_NAVIGATOR = "menuNavigator";
-	public static final String SIGNOUT = "signOut";
-	public static final String USER_NAME_EMAIL_ID = "userEmailId";
-	public static final String USER_PASSWORD = "userPassword";
-	public static final String SIGNIN = "signIn";
-	
-	
 }

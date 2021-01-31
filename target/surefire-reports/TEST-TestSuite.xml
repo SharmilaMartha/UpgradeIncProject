@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="13" failures="0" name="TestSuite" time="25.941" errors="0" skipped="0">
+<testsuite tests="13" failures="0" name="TestSuite" time="29.068" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib"/>
@@ -64,17 +64,17 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="launchBrowserValidateTitleForRateCheck" time="3.131"/>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="checkYourRate" time="0.83"/>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="basicInfoPage" time="1.043"/>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="annualIncomeInfoPage" time="0.202"/>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="createAccountPage" time="0.511"/>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="offersPage" time="9.203"/>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="launchBrowserValidateTitleForLoginPortal" time="0.803"/>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="upgradePortalLoginPage" time="0.903"/>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="offersPageValidation" time="5.604"/>
-  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="closeBrowser" time="0.481"/>
-  <testcase classname="com.upgradeinc.restapi.CredApiTest" name="apiCallWithInvalidCred_returnsStatus401" time="1.246"/>
-  <testcase classname="com.upgradeinc.restapi.CredApiTest" name="apiCallWithValidCred_returnsStatus200" time="1"/>
-  <testcase classname="com.upgradeinc.restapi.CredApiTest" name="apiCallWithValidCreds_checkProductType" time="0.984"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="launchBrowserValidateTitleForRateCheck" time="4.808"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="checkYourRate" time="1.843"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="basicInfoPage" time="1.119"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="annualIncomeInfoPage" time="0.21"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="createAccountPage" time="0.578"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="offersPage" time="9.823"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="launchBrowserValidateTitleForLoginPortal" time="1.155"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="upgradePortalLoginPage" time="0.44"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="offersPageValidation" time="5.602"/>
+  <testcase classname="com.upgradeinc.ui.CredifyAccountCreationTest" name="closeBrowser" time="0.503"/>
+  <testcase classname="com.upgradeinc.restapi.CredApiTest" name="apiCallWithInvalidCred_returnsStatus401" time="1.216"/>
+  <testcase classname="com.upgradeinc.restapi.CredApiTest" name="apiCallWithValidCred_returnsStatus200" time="0.917"/>
+  <testcase classname="com.upgradeinc.restapi.CredApiTest" name="apiCallWithValidCreds_checkProductType" time="0.854"/>
 </testsuite>

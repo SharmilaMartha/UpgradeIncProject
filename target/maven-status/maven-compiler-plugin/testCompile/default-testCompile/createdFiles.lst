@@ -1,6 +1,13 @@
+com/upgradeinc/pages/ui/BasePage.class
 com/upgradeinc/restapi/CredApiTest.class
+com/upgradeinc/pages/ui/OffersPage.class
+com/upgradeinc/pages/ui/CheckYourRatePage.class
+com/upgradeinc/pages/ui/AnnualIncomeInformationPage.class
+com/upgradeinc/pages/ui/UpgradePortalLoginPage.class
 com/upgradeinc/ui/CredifyAccountCreationTest.class
-utils/UICommonUtils.class
 utils/Constants.class
+com/upgradeinc/pages/ui/BasicInformationPage.class
 utils/Configuration.class
+com/upgradeinc/pages/ui/CreateAccountPage.class
 utils/APICommonUtils.class
+utils/UiTestCommonUtils.class

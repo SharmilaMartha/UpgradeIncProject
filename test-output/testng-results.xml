@@ -2,48 +2,52 @@
 <testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="23751" started-at="2021-01-25T13:28:23 EST" finished-at="2021-01-25T13:28:47 EST">
+  <suite name="Default suite" duration-ms="28316" started-at="2021-01-30T21:50:07 EST" finished-at="2021-01-30T21:50:35 EST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="23751" started-at="2021-01-25T13:28:23 EST" finished-at="2021-01-25T13:28:47 EST">
+    <test name="Default test" duration-ms="28316" started-at="2021-01-30T21:50:07 EST" finished-at="2021-01-30T21:50:35 EST">
       <class name="com.upgradeinc.ui.CredifyAccountCreationTest">
-        <test-method status="PASS" signature="launchBrowserValidateTitleForRateCheck()[pri:1, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="launchBrowserValidateTitleForRateCheck" duration-ms="4525" started-at="2021-01-25T13:28:23 EST" finished-at="2021-01-25T13:28:28 EST">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="init" is-config="true" duration-ms="23" started-at="2021-01-30T21:50:07 EST" finished-at="2021-01-30T21:50:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="launchBrowserValidateTitleForRateCheck()[pri:1, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="launchBrowserValidateTitleForRateCheck" duration-ms="5762" started-at="2021-01-30T21:50:07 EST" finished-at="2021-01-30T21:50:13 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowserValidateTitleForRateCheck -->
-        <test-method status="PASS" signature="checkYourRate()[pri:2, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="checkYourRate" duration-ms="840" started-at="2021-01-25T13:28:28 EST" finished-at="2021-01-25T13:28:29 EST">
+        <test-method status="PASS" signature="checkYourRate()[pri:2, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="checkYourRate" duration-ms="1881" started-at="2021-01-30T21:50:13 EST" finished-at="2021-01-30T21:50:14 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkYourRate -->
-        <test-method status="PASS" signature="basicInfoPage()[pri:3, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="basicInfoPage" duration-ms="1038" started-at="2021-01-25T13:28:29 EST" finished-at="2021-01-25T13:28:30 EST">
+        <test-method status="PASS" signature="basicInfoPage()[pri:3, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="basicInfoPage" duration-ms="1105" started-at="2021-01-30T21:50:14 EST" finished-at="2021-01-30T21:50:16 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basicInfoPage -->
-        <test-method status="PASS" signature="annualIncomeInfoPage()[pri:4, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="annualIncomeInfoPage" duration-ms="214" started-at="2021-01-25T13:28:30 EST" finished-at="2021-01-25T13:28:30 EST">
+        <test-method status="PASS" signature="annualIncomeInfoPage()[pri:4, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="annualIncomeInfoPage" duration-ms="216" started-at="2021-01-30T21:50:16 EST" finished-at="2021-01-30T21:50:16 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- annualIncomeInfoPage -->
-        <test-method status="PASS" signature="createAccountPage()[pri:5, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="createAccountPage" duration-ms="530" started-at="2021-01-25T13:28:30 EST" finished-at="2021-01-25T13:28:31 EST">
+        <test-method status="PASS" signature="createAccountPage()[pri:5, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="createAccountPage" duration-ms="606" started-at="2021-01-30T21:50:16 EST" finished-at="2021-01-30T21:50:16 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createAccountPage -->
-        <test-method status="PASS" signature="offersPage()[pri:6, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="offersPage" duration-ms="8633" started-at="2021-01-25T13:28:31 EST" finished-at="2021-01-25T13:28:39 EST">
+        <test-method status="PASS" signature="offersPage()[pri:6, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="offersPage" duration-ms="11349" started-at="2021-01-30T21:50:16 EST" finished-at="2021-01-30T21:50:28 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- offersPage -->
-        <test-method status="PASS" signature="launchBrowserValidateTitleForLoginPortal()[pri:7, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="launchBrowserValidateTitleForLoginPortal" duration-ms="1158" started-at="2021-01-25T13:28:39 EST" finished-at="2021-01-25T13:28:40 EST">
+        <test-method status="PASS" signature="launchBrowserValidateTitleForLoginPortal()[pri:7, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="launchBrowserValidateTitleForLoginPortal" duration-ms="974" started-at="2021-01-30T21:50:28 EST" finished-at="2021-01-30T21:50:29 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowserValidateTitleForLoginPortal -->
-        <test-method status="PASS" signature="upgradePortalLoginPage()[pri:8, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="upgradePortalLoginPage" duration-ms="604" started-at="2021-01-25T13:28:40 EST" finished-at="2021-01-25T13:28:41 EST">
+        <test-method status="PASS" signature="upgradePortalLoginPage()[pri:8, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="upgradePortalLoginPage" duration-ms="649" started-at="2021-01-30T21:50:29 EST" finished-at="2021-01-30T21:50:29 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- upgradePortalLoginPage -->
-        <test-method status="PASS" signature="offersPageValidation()[pri:9, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="offersPageValidation" duration-ms="5678" started-at="2021-01-25T13:28:41 EST" finished-at="2021-01-25T13:28:47 EST">
+        <test-method status="PASS" signature="offersPageValidation()[pri:9, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="offersPageValidation" duration-ms="5120" started-at="2021-01-30T21:50:29 EST" finished-at="2021-01-30T21:50:35 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- offersPageValidation -->
-        <test-method status="PASS" signature="closeBrowser()[pri:10, instance:com.upgradeinc.ui.CredifyAccountCreationTest@65c7a252]" name="closeBrowser" duration-ms="497" started-at="2021-01-25T13:28:47 EST" finished-at="2021-01-25T13:28:47 EST">
+        <test-method status="PASS" signature="closeBrowser()[pri:10, instance:com.upgradeinc.ui.CredifyAccountCreationTest@1e6a3214]" name="closeBrowser" duration-ms="594" started-at="2021-01-30T21:50:35 EST" finished-at="2021-01-30T21:50:35 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

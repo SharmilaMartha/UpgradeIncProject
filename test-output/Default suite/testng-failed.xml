@@ -5,8 +5,8 @@
     <classes>
       <class name="com.upgradeinc.ui.CredifyAccountCreationTest">
         <methods>
-          <include name="upgradePortalLoginPage"/>
-          <include name="offersPageValidation"/>
+          <include name="launchBrowserValidateTitleForRateCheck"/>
+          <include name="init"/>
         </methods>
       </class> <!-- com.upgradeinc.ui.CredifyAccountCreationTest -->
     </classes>
